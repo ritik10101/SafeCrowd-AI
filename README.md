@@ -35,8 +35,6 @@ Intelligent Crowd Monitoring & Safety System using **YOLOv8 + ByteTrack**.
 ### 🎥 Live Crowd Analytics
 ![Live Stream](screenshots/live-stream.png)
 
-### 📈 Crowd Graph & Download
-![Graph Download](screenshots/graph-download.png)
 
 ---
 
