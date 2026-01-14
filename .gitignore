@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+
+# Database files
+*.db
+
+# Uploaded videos
+videos/
+
+# Reports
+*.csv
+
+# Model weights
+*.pt
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
