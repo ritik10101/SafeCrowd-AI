@@ -1,6 +1,6 @@
 # SafeCrowd AI 🚦
 
-Intelligent Crowd Monitoring & Safety System using **YOLOv8 + ByteTrack**.
+Intelligent crowd Monitoring & Safety System.
 
 ---
 
